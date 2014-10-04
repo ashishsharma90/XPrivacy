@@ -202,69 +202,68 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="title_update_install">Pindota sa pag-instalar update</string>
     <string name="title_update_none">No hay actualizaciones disponibles</string>
     <string name="title_update_legacy">XPrivacy 2 dili gisuportahan na, palihug hunahunaa ang pag-upgrade sa XPrivacy 3</string>
-    <string name="settings_serial">Serial#</string>
-    <string name="settings_lat">Latitude</string>
-    <string name="settings_lon">Longitude</string>
-    <string name="settings_alt">Altitude</string>
-    <string name="settings_mac">MAC address</string>
-    <string name="settings_ip">IP address</string>
+    <string name="settings_serial">seriado#</string>
+    <string name="settings_lat">kaluag</string>
+    <string name="settings_lon">longhitud</string>
+    <string name="settings_alt">gihabugon</string>
+    <string name="settings_mac">dirección MACstring>
     <string name="settings_imei" translatable="false">IMEI</string>
-    <string name="settings_phone">Phone number</string>
+    <string name="settings_phone">numero sa telepono</string>
     <string name="settings_id">Android ID</string>
     <string name="settings_gsfid" translatable="false">GSF ID</string>
-    <string name="settings_adid">Advertisement ID</string>
+    <string name="settings_adid">pahibalo ID</string>
     <string name="settings_mcc" translatable="false">MCC</string>
     <string name="settings_mnc" translatable="false">MNC</string>
-    <string name="settings_country">Country</string>
-    <string name="settings_operator">Operator</string>
+    <string name="settings_country">nasod</string>
+    <string name="settings_operator">tigdumala</string>
     <string name="settings_iccid" translatable="false">ICC ID</string>
-    <string name="settings_subscriber">Subscriber ID</string>
+    <string name="settings_subscriber">Suscriptor ID</string>
     <string name="settings_ssid" translatable="false">SSID</string>
     <string name="settings_ua">User agent</string>
-    <string name="settings_general">General</string>
-    <string name="settings_fake_data">Fake data</string>
-    <string name="settings_notify">Update notifications</string>
-    <string name="settings_ondemand">Restrict on demand</string>
-    <string name="settings_blacklist">Blacklist accounts, applications and contacts</string>
-    <string name="settings_log">Debug log (requires reboot)</string>
-    <string name="settings_expert">Expert mode</string>
-    <string name="settings_confidence">Maximum fetch confidence interval</string>
-    <string name="settings_experimental">Experimental functions (requires reboot)</string>
-    <string name="settings_https">Use secure connections</string>
-    <string name="settings_syscomponents">Restrict system components (Android)</string>
-    <string name="settings_usagedata">Show application usage data</string>
-    <string name="settings_parameters">Show parameters of usage data</string>
-    <string name="settings_values">Show values of usage data</string>
-    <string name="settings_cid">GSM Cell ID</string>
+    <string name="settings_general">heneral</string>
+    <string name="settings_fake_data">peke nga data</string>
+    <string name="settings_notify">Las notificaciones de actualización</string>
+    <string name="settings_ondemand">Idili sa panginahanglan</string>
+    <string name="settings_blacklist">Listahan nga mga asoy, aplikasyon ug mga kontak</string>
+    <string name="settings_log">Registro de depuración (requiere reinicio)</string>
+    <string name="settings_expert">Eksperto mode</string>
+    <string name="settings_confidence">Maximum pagkuha pagsalig sal</string>
+    <string name="settings_experimental">sa eksperimento gimbuhaton (requires reboot)</string>
+    <string name="settings_https"Gamita ang luwas koneksyon</string>
+    <string name="settings_syscomponents">Idili sistema nga sangkap (Android)</string>
+    <string name="settings_usagedata">Ipakita ang application paggamit data</string>
+    <string name="settings_parameters">Ipakita pag-lantugi sa paggamit data</string>
+    <string name="settings_values">Ipakita ang mga hiyas sa paggamit data</string>
+    <string name="settings_cid">GSM selula ID</string>
     <string name="settings_lac">GSM LAC</string>
-    <string name="settings_quirks">Quirks</string>
-    <string name="settings_aosp">AOSP mode (requires reboot)</string>
-    <string name="help_check_restrict">First check box: restrict category or function</string>
-    <string name="help_check_ondemand">Second check box: restrict on demand; first check box is default value</string>
-    <string name="help_switch">On/off switch: enable or disable all restrictions</string>
-    <string name="help_longpress">Long press an application name to select</string>
-    <string name="help_ondemand">restrictions will be asked</string>
-    <string name="help_application">Application</string>
-    <string name="help_internet">has internet permission</string>
-    <string name="help_granted">has Android permission</string>
-    <string name="help_used">has used this data</string>
-    <string name="help_used_grayed">no usage data available</string>
-    <string name="help_frozen">is disabled</string>
-    <string name="help_dangerous">is dangerous, restricting may cause problems</string>
-    <string name="help_half">partly restricted</string>
-    <string name="help_attention">restrictions need attention</string>
-    <string name="help_restricted">restrictions are changed</string>
-    <string name="help_shared">restrictions are submitted</string>
-    <string name="help_settings">has application specific fake values</string>
-    <string name="tutorial_mainheader">Select the category to restrict</string>
-    <string name="tutorial_mainlist">Tap the first check box to restrict the selected category for an app\n
-\nTap the second check box to restrict on demand\n
-\nApps will be fed empty or fake data for restricted categories\n
-\nTap the app icon or name for detailed restrictions and settings</string>
-    <string name="tutorial_detailsheader">Tap the app icon for more actions</string>
-    <string name="tutorial_detailslist">Tap the down arrow to see the function exceptions of a restriction category</string>
-    <string name="permission_manage">Manage applications, including killing</string>
-    <string name="permission_restrictions">Manage XPrivacy restrictions and settings</string>
+    <string name="settings_quirks">lahi nga kinaiya</string>
+    <string name="settings_aosp">AOSP metodo (requires reboot)</string>
+    <string name="help_check_restrict">Casilla de verificación Invertir: restringir la categoría o función</string>
+    <string name="help_check_ondemand">Casilla de verificación Segundo: restringir la demanda; primera casilla de verificación es el valor por defecto</string>
+    <string name="help_switch">Encendido/apagado: activar o desactivar todas las restricciones</string>
+    <string name="help_longpress">Mantenga pulsado un nombre de aplicación para seleccionar</string>
+    <string name="help_ondemand">Se pedirá a las restricciones</string>
+    <string name="help_application">aplikasyon</string>
+    <string name="help_internet">adunay internet pagtugot</string>
+    <string name="help_granted">adunay Android pagtugot</string>
+    <string name="help_used">nga gigamit kini nga data</string>
+    <string name="help_used_grayed">walay paggamit data anaa</string>
+    <string name="help_frozen">baldado</string>
+    <string name="help_dangerous">mao ang delikado, paggapos mahimong hinungdan sa mga problema</string>
+    <string name="help_half">sa usa ka bahin lamang</string>
+    <string name="help_attention">pagdili kinahanglan pagtagad</string>
+    <string name="help_restricted">pagdili mausab</string>
+    <string name="help_shared">adunay mga pagdili gisumiter</string>
+    <string name="help_settings">adunay aplikasyon piho nga peke nga mga hiyas</string>
+    <string name="tutorial_mainheader">Pagpili sa kategoriya sa idili</string>
+    <string name="tutorial_mainlist">Pindota ang unang check kahon sa pagdili sa mga pinili nga mga kategoriya alang sa usa ka app\n\n
+    sa ikaduha nga check kahon sa pagpugong sa demand\n 
+\nnga gipakaon nga walay sulod o peke data sa pinugngan nga kategoriya\n 
+\nsa app icon o ngalan alang sa detalyado nga mga pagdili ug mga setting</string>
+    <string name="tutorial_detailsheader">Pindota ang app icon alang sa dugang nga mga aksyon</string>
+    <string name="tutorial_detailslist">Pindota ang sa udyong nga makita ang function eksepsiyon sa usa ka pagdili nga kategoriya</string>
+    <string name="permission_manage">Pagdumala sa mga aplikasyon, lakip na ang pagpatay</string>
+    <string name="permission_restrictions">Pagdumala XPrivacy pagdili ug mga setting</string>
     <string name="fingerprint" translatable="false">10620ae961d78854f6c9cd872c4388232849c799</string>
 
 </resources>
