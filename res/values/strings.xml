@@ -191,16 +191,16 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="title_usage_header">Uso</string>
     <string name="title_usage_text_1">1. Busque la aplicacin para restringir en la lista de aplicaciones prinsipal</string>
     <string name="title_usage_text_2">2. Toque en el icono de la aplicación o el nombre</string>
-    <string name="title_usage_text_3">3. Toque el cuadro de primer cheque de cualquier categoría que desee restringir</string>
+    <string name="title_usage_text_3">3. Toque el cuadro de primer tseke de cualquier categoría que desee restringir</string>
     <string name="title_usage_footer">Use el sentido común cuando la restricción, esperar el acceso a Internet si se restringía la categoría de Internet</string>
     <string name="title_toggle_dangerous">Pulsación larga en un título para alternar las funciones peligrosas</string>
     <string name="title_ondemand_category">Aplicando a la categoría restablecerá las excepciones de la función a los valores por defecto</string>
     <string name="title_function_help">documentación Función</string>
     <string name="title_unsafe">mao ang dili luwas, mahimong kagustohan</string>
-    <string name="title_update_checking">Pagsusi sa update</string>
-    <string name="title_update_downloading">Downloading update</string>
-    <string name="title_update_install">Pindota sa pag-instalar update</string>
-    <string name="title_update_none">No hay actualizaciones disponibles</string>
+    <string name="title_update_checking">Pagsusi sa actualización</string>
+    <string name="title_update_downloading">Downloading actualización</string>
+    <string name="title_update_install">Pindota sa pag-instalar actualización</string>
+    <string name="title_update_none">Dili hay actualizaciones disponibles</string>
     <string name="title_update_legacy">XPrivacy 2 dili gisuportahan na, palihug hunahunaa ang pag-upgrade sa XPrivacy 3</string>
     <string name="settings_serial">seriado#</string>
     <string name="settings_lat">kaluag</string>
@@ -221,7 +221,7 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="settings_ssid" translatable="false">SSID</string>
     <string name="settings_ua">User agent</string>
     <string name="settings_general">heneral</string>
-    <string name="settings_fake_data">peke nga data</string>
+    <string name="settings_fake_data">peke nga kasayoran</string>
     <string name="settings_notify">Las notificaciones de actualización</string>
     <string name="settings_ondemand">Idili sa panginahanglan</string>
     <string name="settings_blacklist">Listahan nga mga asoy, aplikasyon ug mga kontak</string>
@@ -231,13 +231,13 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="settings_experimental">sa eksperimento gimbuhaton (requires reboot)</string>
     <string name="settings_https"Gamita ang luwas koneksyon</string>
     <string name="settings_syscomponents">Idili sistema nga sangkap (Android)</string>
-    <string name="settings_usagedata">Ipakita ang application paggamit data</string>
-    <string name="settings_parameters">Ipakita pag-lantugi sa paggamit data</string>
-    <string name="settings_values">Ipakita ang mga hiyas sa paggamit data</string>
+    <string name="settings_usagedata">Ipakita ang application paggamit kasayoran</string>
+    <string name="settings_parameters">Ipakita pag-lantugi sa paggamit kasayoran</string>
+    <string name="settings_values">Ipakita ang mga hiyas sa paggamit kasayoran</string>
     <string name="settings_cid">GSM selula ID</string>
     <string name="settings_lac">GSM LAC</string>
     <string name="settings_quirks">lahi nga kinaiya</string>
-    <string name="settings_aosp">AOSP metodo (requires reboot)</string>
+    <string name="settings_aosp">AOSP metodo (nagkinahanglan rebot)</string>
     <string name="help_check_restrict">Casilla de verificación Invertir: restringir la categoría o función</string>
     <string name="help_check_ondemand">Casilla de verificación Segundo: restringir la demanda; primera casilla de verificación es el valor por defecto</string>
     <string name="help_switch">Encendido/apagado: activar o desactivar todas las restricciones</string>
@@ -246,8 +246,8 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="help_application">aplikasyon</string>
     <string name="help_internet">adunay internet pagtugot</string>
     <string name="help_granted">adunay Android pagtugot</string>
-    <string name="help_used">nga gigamit kini nga data</string>
-    <string name="help_used_grayed">walay paggamit data anaa</string>
+    <string name="help_used">nga gigamit kini nga kasayoran</string>
+    <string name="help_used_grayed">walay paggamit kasayoran anaa</string>
     <string name="help_frozen">baldado</string>
     <string name="help_dangerous">mao ang delikado, paggapos mahimong hinungdan sa mga problema</string>
     <string name="help_half">sa usa ka bahin lamang</string>
@@ -256,14 +256,14 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="help_shared">adunay mga pagdili gisumiter</string>
     <string name="help_settings">adunay aplikasyon piho nga peke nga mga hiyas</string>
     <string name="tutorial_mainheader">Pagpili sa kategoriya sa idili</string>
-    <string name="tutorial_mainlist">Pindota ang unang check kahon sa pagdili sa mga pinili nga mga kategoriya alang sa usa ka app\n\n
-    sa ikaduha nga check kahon sa pagpugong sa demand\n 
+    <string name="tutorial_mainlist">Pindota ang unang tseke kahon sa pagdili sa mga pinili nga mga kategoriya alang sa usa ka\n\n
+    sa ikaduha nga tseke kahon sa pagpugong sa hangyo\n 
 \nnga gipakaon nga walay sulod o peke data sa pinugngan nga kategoriya\n 
-\nsa app icon o ngalan alang sa detalyado nga mga pagdili ug mga setting</string>
-    <string name="tutorial_detailsheader">Pindota ang app icon alang sa dugang nga mga aksyon</string>
+\nsa app icon o ngalan alang sa detalyado nga mga pagdili ug mga nga kahimtang</string>
+    <string name="tutorial_detailsheader">Pindota ang icono de la aplicación alang sa dugang nga mga aksyon</string>
     <string name="tutorial_detailslist">Pindota ang sa udyong nga makita ang function eksepsiyon sa usa ka pagdili nga kategoriya</string>
     <string name="permission_manage">Pagdumala sa mga aplikasyon, lakip na ang pagpatay</string>
-    <string name="permission_restrictions">Pagdumala XPrivacy pagdili ug mga setting</string>
+    <string name="permission_restrictions">Pagdumala XPrivacy pagdili ug mga nga kahimtang</string>
     <string name="fingerprint" translatable="false">10620ae961d78854f6c9cd872c4388232849c799</string>
 
 </resources>
