@@ -2,7 +2,7 @@
 
     <!-- Translators: do not include texts with translatable="false" -->
     <string name="app_name" translatable="false">XPrivacy</string>
-    <string name="app_notenabled">XPrivacy is not enabled in the Xposed installer</string>
+    <string name="app_notenabled">XPrivacy wala nakahimo sa Xposed instalador</string>
     <string name="app_wrongandroid">Only for Android version 4.0.3+</string>
     <string name="app_incompatible">XPrivacy is incompatible with %1$s</string>
     <string name="app_wrongenabler" translatable="false">Please upgrade the Pro enabler</string>
