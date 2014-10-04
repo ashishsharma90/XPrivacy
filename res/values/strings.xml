@@ -90,58 +90,58 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
 \n\nmao ang bug-os sa imong kaugalingong risgo. </b>\n\nusab ang lisensiya:</string>
     <string name="restrict_accounts" tools:ignore="UnusedResources">Asoy</string>
     <string name="restrict_browser" tools:ignore="UnusedResources">navegador</string>
-    <string name="restrict_calendar" tools:ignore="UnusedResources">Calendar</string>
-    <string name="restrict_calling" tools:ignore="UnusedResources">Calling</string>
-    <string name="restrict_clipboard" tools:ignore="UnusedResources">Clipboard</string>
-    <string name="restrict_contacts" tools:ignore="UnusedResources">Contacts</string>
-    <string name="restrict_dictionary" tools:ignore="UnusedResources">Dictionary</string>
+    <string name="restrict_calendar" tools:ignore="UnusedResources">kalendaryo</string>
+    <string name="restrict_calling" tools:ignore="UnusedResources">sa pagtawag sa</string>
+    <string name="restrict_clipboard" tools:ignore="UnusedResources">Portapapeles</string>
+    <string name="restrict_contacts" tools:ignore="UnusedResources">makigkita</string>
+    <string name="restrict_dictionary" tools:ignore="UnusedResources">diksyonario</string>
     <string name="restrict_email" tools:ignore="UnusedResources">E-mail</string>
-    <string name="restrict_identification" tools:ignore="UnusedResources">Identification</string>
+    <string name="restrict_identification" tools:ignore="UnusedResources">ilhanan</string>
     <string name="restrict_internet" tools:ignore="UnusedResources">Internet</string>
     <string name="restrict_ipc" translatable="false" tools:ignore="UnusedResources">IPC</string>
-    <string name="restrict_location" tools:ignore="UnusedResources">Location</string>
-    <string name="restrict_media" tools:ignore="UnusedResources">Media</string>
-    <string name="restrict_messages" tools:ignore="UnusedResources">Messages</string>
-    <string name="restrict_network" tools:ignore="UnusedResources">Network</string>
+    <string name="restrict_location" tools:ignore="UnusedResources">nahimutangan</string>
+    <string name="restrict_media" tools:ignore="UnusedResources">mga paagi</string>
+    <string name="restrict_messages" tools:ignore="UnusedResources">Mensajes</string>
+    <string name="restrict_network" tools:ignore="UnusedResources">Red</string>
     <string name="restrict_nfc" translatable="false" tools:ignore="UnusedResources">NFC</string>
-    <string name="restrict_notifications" tools:ignore="UnusedResources">Notifications</string>
-    <string name="restrict_overlay" tools:ignore="UnusedResources">Overlay</string>
-    <string name="restrict_phone" tools:ignore="UnusedResources">Phone</string>
-    <string name="restrict_sensors" tools:ignore="UnusedResources">Sensors</string>
-    <string name="restrict_storage" tools:ignore="UnusedResources">Storage</string>
-    <string name="restrict_shell" tools:ignore="UnusedResources">Shell</string>
-    <string name="restrict_system" tools:ignore="UnusedResources">System</string>
-    <string name="restrict_view" tools:ignore="UnusedResources">View</string>
-    <string name="restrict_help_view" tools:ignore="UnusedResources">Will restrict access to view actions and information</string>
-    <string name="restrict_help_system" tools:ignore="UnusedResources">Will restrict access to system information, like installed applications</string>
-    <string name="restrict_help_shell" tools:ignore="UnusedResources">Will restrict access to shell commands, including superuser commands</string>
-    <string name="restrict_help_storage" tools:ignore="UnusedResources">Will restrict access to the storage, like files on your SD card or the internal storage</string>
-    <string name="restrict_help_sensors" tools:ignore="UnusedResources">Will restrict access to the sensors, like the motion sensor</string>
-    <string name="restrict_help_phone" tools:ignore="UnusedResources">Will restrict access to phone information, like your phone number</string>
-    <string name="restrict_help_overlay" tools:ignore="UnusedResources">Will restrict overlay windows to prevent phishing</string>
-    <string name="restrict_help_notifications" tools:ignore="UnusedResources">Will restrict access to system and application notifications and Google cloud messaging</string>
-    <string name="restrict_help_nfc" tools:ignore="UnusedResources">Will restrict access to near field communication</string>
-    <string name="restrict_help_network" tools:ignore="UnusedResources">Will restrict access to network information, like IP and MAC addresses and Wi-Fi network information</string>
-    <string name="restrict_help_messages" tools:ignore="UnusedResources">Will restrict access to stored and received messages (SMS/MMS) and voicemail</string>
-    <string name="restrict_help_media" tools:ignore="UnusedResources">Will restrict access to the camera (photos and videos) and the microphone</string>
-    <string name="restrict_help_location" tools:ignore="UnusedResources">Will restrict access to your coarse and fine location</string>
-    <string name="restrict_help_ipc" tools:ignore="UnusedResources">Will restrict inter-process communication, when used to circumvent other restrictions</string>
-    <string name="restrict_help_internet" tools:ignore="UnusedResources">Will restrict access to the Internet</string>
-    <string name="restrict_help_identification" tools:ignore="UnusedResources">Will restrict information which can identify you, like the serial number of your device</string>
-    <string name="restrict_help_email" tools:ignore="UnusedResources">Will restrict access to e-mail information, like addresses and messages (standard and G-mail application only)</string>
-    <string name="restrict_help_dictionary" tools:ignore="UnusedResources">Will restrict access to the user dictionary</string>
-    <string name="restrict_help_contacts" tools:ignore="UnusedResources">Will restrict access to information about your contacts</string>
-    <string name="restrict_help_clipboard" tools:ignore="UnusedResources">Will restrict access to information on the clipboard</string>
-    <string name="restrict_help_calling" tools:ignore="UnusedResources">Will restrict calling phone numbers, sending messages (SMS/MMS) and access to your calling history</string>
-    <string name="restrict_help_calendar" tools:ignore="UnusedResources">Will restrict access to your calendar information, like your appointments</string>
-    <string name="restrict_help_browser" tools:ignore="UnusedResources">Will restrict access to browser information, like your bookmarks and the download history</string>
-    <string name="restrict_help_accounts" tools:ignore="UnusedResources">Will restrict access to account information, like your Google account, which includes your G-mail address</string>
-    <string name="whitelist_address" tools:ignore="UnusedResources">Addresses</string>
-    <string name="whitelist_action" tools:ignore="UnusedResources">Action</string>
-    <string name="whitelist_ipaddress" tools:ignore="UnusedResources">IP addresses</string>
-    <string name="whitelist_library" tools:ignore="UnusedResources">Native libraries</string>
-    <string name="whitelist_method" tools:ignore="UnusedResources">Method names</string>
-    <string name="whitelist_filename" tools:ignore="UnusedResources">File names</string>
+    <string name="restrict_notifications" tools:ignore="UnusedResources">Notificaciones</string>
+    <string name="restrict_overlay" tools:ignore="UnusedResources">pagahal-upan</string>
+    <string name="restrict_phone" tools:ignore="UnusedResources">Teléfono</string>
+    <string name="restrict_sensors" tools:ignore="UnusedResources">Sensores</string>
+    <string name="restrict_storage" tools:ignore="UnusedResources">Almacenamiento</string>
+    <string name="restrict_shell" tools:ignore="UnusedResources">bagol</string>
+    <string name="restrict_system" tools:ignore="UnusedResources">sistema</string>
+    <string name="restrict_view" tools:ignore="UnusedResources">panlantaw</string>
+    <string name="restrict_help_view" tools:ignore="UnusedResources">Ba idili access sa pagtan-aw mga lihok ug impormasyon</string>
+    <string name="restrict_help_system" tools:ignore="UnusedResources">Ba idili access sa sistema sa impormasyon, sama sa instalar mga aplikasyon</string>
+    <string name="restrict_help_shell" tools:ignore="UnusedResources">Ba idili access sa kabhang mga sugo, lakip na ang superuser mga sugo</string>
+    <string name="restrict_help_storage" tools:ignore="UnusedResources">Ba idili access ngadto sa storage, sama sa mga file diha sa imong SD card o sa internal storage</string>
+    <string name="restrict_help_sensors" tools:ignore="UnusedResources">Ba idili access ngadto sa mga sensors, sama sa motion sensor</string>
+    <string name="restrict_help_phone" tools:ignore="UnusedResources">Ba idili access sa telepono nga impormasyon, sama sa imong numero sa telepono</string>
+    <string name="restrict_help_overlay" tools:ignore="UnusedResources">Ba idili pagahal-upan tamboanan sa pagpugong sa phishing</string>
+    <string name="restrict_help_notifications" tools:ignore="UnusedResources">Ba idili access sa sistema sa ug paggamit notifications ug sa Google panganod messaging</string>
+    <string name="restrict_help_nfc" tools:ignore="UnusedResources">Ba idili access ngadto sa duol sa uma sa komunikasyon</string>
+    <string name="restrict_help_network" tools:ignore="UnusedResources">Ba idili access sa network nga impormasyon, sama sa IP ug MAC addresses ug Wi-Fi network nga impormasyon</string>
+    <string name="restrict_help_messages" tools:ignore="UnusedResources">Ba idili access sa gitipigan ug nakadawat nga mga mensahe (SMS / MMS) ug voicemail</string>
+    <string name="restrict_help_media" tools:ignore="UnusedResources">Ba idili access ngadto sa camera (mga litrato ug mga video) ug sa mikropono</string>
+    <string name="restrict_help_location" tools:ignore="UnusedResources">Ba idili access sa imong coarse ug lino nga fino nga lokasyon</string>
+    <string name="restrict_help_ipc" tools:ignore="UnusedResources">Ba idili inter-proseso sa komunikasyon, sa diha nga gigamit sa circumvent sa uban nga mga pagdili</string>
+    <string name="restrict_help_internet" tools:ignore="UnusedResources">Ba idili access sa Internet</string>
+    <string name="restrict_help_identification" tools:ignore="UnusedResources">Ba idili impormasyon nga sa pag-ila kaninyo, sama sa serial number sa imong device</string>
+    <string name="restrict_help_email" tools:ignore="UnusedResources">Ba idili access sa e-mail nga impormasyon, sama sa mga pakigpulong ug mga mensahe (standard ug G-mail application lamang)</string>
+    <string name="restrict_help_dictionary" tools:ignore="UnusedResources">Ba idili access ngadto sa user dictionary</string>
+    <string name="restrict_help_contacts" tools:ignore="UnusedResources">Ba idili access sa impormasyon mahitungod sa imong mga kontak</string>
+    <string name="restrict_help_clipboard" tools:ignore="UnusedResources">Ba idili access sa impormasyon sa Clipboard</string>
+    <string name="restrict_help_calling" tools:ignore="UnusedResources">Ba idili sa pagtawag sa telepono numero, pagpadala og mga mensahe (SMS / MMS) ug access sa imong calling sa kasaysayan</string>
+    <string name="restrict_help_calendar" tools:ignore="UnusedResources">Ba idili access sa imong kalendaryo nga impormasyon, sama sa imong mga pagtudlo</string>
+    <string name="restrict_help_browser" tools:ignore="UnusedResources">Ba idili access sa browser nga impormasyon, sama sa inyong mga bookmark ug sa download sa kasaysayan</string>
+    <string name="restrict_help_accounts" tools:ignore="UnusedResources">Ba idili access sa account sa impormasyon, sama sa inyong mga Google account, nga naglakip sa inyong mga G-mail address</string>
+    <string name="whitelist_address" tools:ignore="UnusedResources">Pakigpulong</string>
+    <string name="whitelist_action" tools:ignore="UnusedResources">aksyon</string>
+    <string name="whitelist_ipaddress" tools:ignore="UnusedResources">IP adres sa</string>
+    <string name="whitelist_library" tools:ignore="UnusedResources">Lumad nga librarya</string>
+    <string name="whitelist_method" tools:ignore="UnusedResources">pamaagi mga ngalan</string>
+    <string name="whitelist_filename" tools:ignore="UnusedResources">file mga ngalan</string>
     <string name="whitelist_command" tools:ignore="UnusedResources">Shell commands</string>
     <string name="whitelist_url" tools:ignore="UnusedResources">URLs</string>
     <string name="whitelist_transaction" tools:ignore="UnusedResources">Transactions</string>
