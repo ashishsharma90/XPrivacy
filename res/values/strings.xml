@@ -142,66 +142,66 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="whitelist_library" tools:ignore="UnusedResources">Lumad nga librarya</string>
     <string name="whitelist_method" tools:ignore="UnusedResources">pamaagi mga ngalan</string>
     <string name="whitelist_filename" tools:ignore="UnusedResources">file mga ngalan</string>
-    <string name="whitelist_command" tools:ignore="UnusedResources">Shell commands</string>
-    <string name="whitelist_url" tools:ignore="UnusedResources">URLs</string>
-    <string name="whitelist_transaction" tools:ignore="UnusedResources">Transactions</string>
-    <string name="whitelist_permission" tools:ignore="UnusedResources">Permissions</string>
+    <string name="whitelist_command" tools:ignore="UnusedResources">Los comandos del shell</string>
+    <string name="whitelist_url" tools:ignore="UnusedResources">mga URL</string>
+    <string name="whitelist_transaction" tools:ignore="UnusedResources">mga transaksyon</string>
+    <string name="whitelist_permission" tools:ignore="UnusedResources">Permisos</string>
     <string name="whitelist_proc" translatable="false" tools:ignore="UnusedResources">/proc</string>
-    <string name="title_restrict">Check to restrict:</string>
-    <string name="title_check_whitelist">Check to allow:</string>
-    <string name="title_fused">Filter on data usage</string>
-    <string name="title_finternet">Filter on internet access</string>
-    <string name="title_fpermission">Filter on permission</string>
-    <string name="title_frestricted">Filter on restricted</string>
-    <string name="title_fuser">Filter on user applications</string>
-    <string name="title_fondemand">Filter by on-demand</string>
-    <string name="title_fsystem">Filter on system applications</string>
-    <string name="title_fnot">Negate</string>
-    <string name="title_sname">By name</string>
-    <string name="title_suid">By uid</string>
-    <string name="title_sinstalled">By date installed</string>
-    <string name="title_supdated">By date updated</string>
-    <string name="title_smodified">By date modified (XPrivacy)</string>
-    <string name="title_sstate">By state (XPrivacy)</string>
-    <string name="title_sinvert">Invert sort order</string>
-    <string name="title_attempt">Usage attempt of:</string>
-    <string name="title_category">Category:</string>
-    <string name="title_function">Function:</string>
-    <string name="title_parameters">Parameters:</string>
-    <string name="title_applycat">Apply to entire category</string>
-    <string name="title_once">Once for</string>
-    <string name="title_whitelist">White/blacklist &#8216;%1$s&#8217;</string>
-    <string name="title_allow">Allow</string>
-    <string name="title_deny">Deny</string>
-    <string name="title_dontknow">Don\'t know</string>
-    <string name="title_pleasesubmit">Please submit your restrictions to help others</string>
-    <string name="title_permissions">Permissions</string>
-    <string name="title_set_restrict">Restrict (categories)</string>
-    <string name="title_template_category">Apply template (categories)</string>
-    <string name="title_template_full">Apply template (categories+functions)</string>
-    <string name="title_template_merge">Apply template (merge set)</string>
-    <string name="title_template_merge_reset">Apply template (merge reset)</string>
-    <string name="title_enable_ondemand">Enable on demand restricting</string>
-    <string name="title_disable_ondemand">Disable on demand restricting</string>
-    <string name="title_ondemand_default">Timeout will:</string>
-    <string name="title_ondemand_reset">Reset</string>
-    <string name="title_default">Default</string>
-    <string name="title_alternate">Alternate</string>
-    <string name="title_rename">Rename</string>
-    <string name="title_usage_header">Usage</string>
-    <string name="title_usage_text_1">1. Find the application to restrict in the main application list</string>
-    <string name="title_usage_text_2">2. Tap on the application icon or name</string>
-    <string name="title_usage_text_3">3. Tap the first check box of any category you want to restrict</string>
-    <string name="title_usage_footer">Use common sense when restricting, don\'t expect internet access if you restricted the internet category, etc.</string>
-    <string name="title_toggle_dangerous">Long press on a title to toggle dangerous functions</string>
-    <string name="title_ondemand_category">Applying to the category will reset the function exceptions to default values</string>
-    <string name="title_function_help">Function documentation</string>
-    <string name="title_unsafe">is unsafe, can be circumvented</string>
-    <string name="title_update_checking">Checking for update</string>
+    <string name="title_restrict">Check sa pagpugong:</string>
+    <string name="title_check_whitelist">Check sa pagtugot sa:</string>
+    <string name="title_fused">Filter sa data paggamit</string>
+    <string name="title_finternet">Filtrar el acceso a internet</string>
+    <string name="title_fpermission">Filtrar el permiso</string>
+    <string name="title_frestricted">Filtra el restringido</string>
+    <string name="title_fuser">Filtro en las aplicaciones de usuario</string>
+    <string name="title_fondemand">Filtrar por tipo de demanda</string>
+    <string name="title_fsystem">Filtro en aplicaciones de sistemas de</string>
+    <string name="title_fnot">niega</string>
+    <string name="title_sname">pinaagi sa ngalan</string>
+    <string name="title_suid">Pinaagi sa uid</string>
+    <string name="title_sinstalled">Pinaagi sa petsa-instalar</string>
+    <string name="title_supdated">Pinaagi sa date updated</string>
+    <string name="title_smodified">Pinaagi sa date giusab (XPrivacy)</string>
+    <string name="title_sstate">Pinaagi sa estado (XPrivacy)</string>
+    <string name="title_sinvert">Baliha ang matang order</string>
+    <string name="title_attempt">Usage pagsulay sa:</string>
+    <string name="title_category">kategorya:</string>
+    <string name="title_function">kalihokan:</string>
+    <string name="title_parameters">pag-lantugi:</string>
+    <string name="title_applycat">Ibutang ang ngadto sa tibuok nga kategoriya</string>
+    <string name="title_once">sa makausa alang sa</string>
+    <string name="title_whitelist">Blanco/lista negra &#8216;%1$s&#8217;</string>
+    <string name="title_allow">Tugoti</string>
+    <string name="title_deny">ilimud</string>
+    <string name="title_dontknow">masayud</string>
+    <string name="title_pleasesubmit">Palihug ipadala ang imong mga pagdili sa pagtabang sa uban</string>
+    <string name="title_permissions">pagtugot</string>
+    <string name="title_set_restrict">Idili (kategoriya)</string>
+    <string name="title_template_category">Ibutang ang template (kategoriya)</string>
+    <string name="title_template_full">Ibutang ang template (kategoriya + gimbuhaton)</string>
+    <string name="title_template_merge">Ibutang ang template (iusa set)</string>
+    <string name="title_template_merge_reset">Ibutang ang template (iusa reset)</string>
+    <string name="title_enable_ondemand">Enable sa demand paggapos</string>
+    <string name="title_disable_ondemand">Naghimo og kakulangan sa demand paggapos</string>
+    <string name="title_ondemand_default">Tiempo de espera será:</string>
+    <string name="title_ondemand_reset">Restablecer</string>
+    <string name="title_default">mopakyas sa sabot</string>
+    <string name="title_alternate">sal-angsal-angon</string>
+    <string name="title_rename">usab sa ngalan</string>
+    <string name="title_usage_header">Uso</string>
+    <string name="title_usage_text_1">1. Busque la aplicación para restringir en la lista de aplicaciones principal</string>
+    <string name="title_usage_text_2">2. Toque en el icono de la aplicación o el nombre</string>
+    <string name="title_usage_text_3">3. Toque el cuadro de primer cheque de cualquier categoría que desee restringir</string>
+    <string name="title_usage_footer">Use el sentido común cuando la restricción, esperar el acceso a Internet si se restringía la categoría de Internet, etc</string>
+    <string name="title_toggle_dangerous">Pulsación larga en un título para alternar las funciones peligrosas</string>
+    <string name="title_ondemand_category">Aplicando a la categoría restablecerá las excepciones de la función a los valores por defecto</string>
+    <string name="title_function_help">documentación Función</string>
+    <string name="title_unsafe">mao ang dili luwas, mahimong kagustohan</string>
+    <string name="title_update_checking">Pagsusi sa update</string>
     <string name="title_update_downloading">Downloading update</string>
-    <string name="title_update_install">Tap to install update</string>
-    <string name="title_update_none">No updates available</string>
-    <string name="title_update_legacy">XPrivacy 2 is not supported anymore, please consider upgrading to XPrivacy 3</string>
+    <string name="title_update_install">Pindota sa pag-instalar update</string>
+    <string name="title_update_none">No hay actualizaciones disponibles</string>
+    <string name="title_update_legacy">XPrivacy 2 dili gisuportahan na, palihug hunahunaa ang pag-upgrade sa XPrivacy 3</string>
     <string name="settings_serial">Serial#</string>
     <string name="settings_lat">Latitude</string>
     <string name="settings_lon">Longitude</string>
