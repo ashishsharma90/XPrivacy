@@ -40,56 +40,56 @@
     <string name="menu_app_launch">paglusad</string>
     <string name="menu_app_settings">Diin Nahitabo</string>
     <string name="menu_app_store">Play Store</string>
-    <string name="menu_app_kill">Kill</string>
-    <string name="menu_accounts">Select accounts to allow</string>
-    <string name="menu_applications">Select applications to allow</string>
-    <string name="menu_contacts">Select contacts to allow</string>
-    <string name="menu_whitelists">Manage whitelists</string>
-    <string name="menu_tutorial">Tutorial</string>
-    <string name="menu_changelog">Changelog</string>
-    <string name="menu_flush">Flush cache</string>
-    <string name="menu_update">Check for updates</string>
-    <string name="menu_batch">Operations &#8230;</string>
-    <string name="menu_legend">Legend</string>
-    <string name="msg_abort">Aborting</string>
-    <string name="msg_aborted">Aborted</string>
-    <string name="msg_new">New</string>
-    <string name="msg_update">Update</string>
-    <string name="msg_loading">Loading &#8230;</string>
-    <string name="msg_applying">Applying &#8230;</string>
-    <string name="msg_applied">Template applied</string>
-    <string name="msg_saved_to">Saved to %1$s</string>
-    <string name="msg_no_restrictions">No restrictions found</string>
-    <string name="msg_sure">Are you sure?</string>
-    <string name="msg_select">Please select some applications</string>
-    <string name="msg_limit">Please select fewer than %1$d applications</string>
-    <string name="msg_done">Done</string>
-    <string name="msg_reboot">Device restart required</string>
-    <string name="msg_random_now">Randomize now</string>
-    <string name="msg_random_access">Randomize on access</string>
-    <string name="msg_random_boot">Randomize on boot</string>
-    <string name="msg_restart">Application restart required</string>
-    <string name="msg_register">Please register your device</string>
-    <string name="msg_email">Please enter your e-mail address:</string>
-    <string name="msg_registered">Check your e-mail to activate your device</string>
-    <string name="msg_service">Update service running</string>
-    <string name="msg_migrating">Migrating %1$s</string>
-    <string name="msg_randomizing">Randomizing %1$s</string>
-    <string name="msg_upgrading">Upgrading %1$s</string>
-    <string name="msg_support_info">An internal check failed, do you want to send the support info?</string>
-    <string name="msg_restrictedby">Restricted by XPrivacy</string>
-    <string name="msg_service_missing">Privacy service not found; did you enable XPrivacy in the Xposed installer and reboot your device?</string>
-    <string name="msg_service_version">Privacy service version mismatch; did you reboot your device after upgrading XPrivacy?</string>
-    <string name="msg_service_updating">Please wait until the update service has been completed</string>
-    <string name="msg_expert">Expert users are supposed to solve their own problems where possible and to follow the XDA XPrivacy forum and help others where possible</string>
-    <string name="msg_method_expert">Function restrictions are meant for expert users. Are you an expert user?</string>
-    <string name="msg_longpress_whitelist">Long press function name to white or black list parameter</string>
-    <string name="msg_settings_specific">Check marks and values take precedence over global check marks and values; empty check boxes and values do not take precedence</string>
-    <string name="msg_first"><b>Great care has been taken to develop and test XPrivacy,
-however it is impossible to guarantee it will work flawlessly on each and every device and for each and every application.
-\n\nUse is entirely at your own risk.</b>\n\nSee also the license:</string>
-    <string name="restrict_accounts" tools:ignore="UnusedResources">Accounts</string>
-    <string name="restrict_browser" tools:ignore="UnusedResources">Browser</string>
+    <string name="menu_app_kill">patyon</string>
+    <string name="menu_accounts">Pagpili mga asoy sa pagtugot sa</string>
+    <string name="menu_applications">Pagpili aplikasyon sa pagtugot sa</string>
+    <string name="menu_contacts">Pagpili kontak sa pagtugot sa</string>
+    <string name="menu_whitelists">pagdumala whitelists</string>
+    <string name="menu_tutorial">sa panudlo</string>
+    <string name="menu_changelog">cambios</string>
+    <string name="menu_flush">Vaciar caché</string>
+    <string name="menu_update">Buscar actualizaciones</string>
+    <string name="menu_batch">Operaciones &#8230;</string>
+    <string name="menu_legend">Leyenda</string>
+    <string name="msg_abort">Abortar</string>
+    <string name="msg_aborted">Abortar</string>
+    <string name="msg_new">Nueva</string>
+    <string name="msg_update">actualización</string>
+    <string name="msg_loading">ikarga &#8230;</string>
+    <string name="msg_applying">Ang pagpadapat &#8230;</string>
+    <string name="msg_applied">Plantilla aplica</string>
+    <string name="msg_saved_to">maluwas sa %1$s</string>
+    <string name="msg_no_restrictions">No pagdili nga nakaplagan</string>
+    <string name="msg_sure">Sigurado?</string>
+    <string name="msg_select">Palihug pagpili sa pipila ka mga aplikasyon</string>
+    <string name="msg_limit">Palihug pagpili may diriyut pa kay sa %1$d aplikasyon</string>
+    <string name="msg_done">¡Está hecho!</string>
+    <string name="msg_reboot">Device pagsugod usab nga gikinahanglan</string>
+    <string name="msg_random_now">Selección aleatoria de ahora</string>
+    <string name="msg_random_access">Selección aleatoria de acceso</string>
+    <string name="msg_random_boot">Selección aleatoria en el arranque</string>
+    <string name="msg_restart">Application pagsugod usab nga gikinahanglan</string>
+    <string name="msg_register">Palihug register sa imong device</string>
+    <string name="msg_email">Palihug mosulod sa inyong e-mail address:</string>
+    <string name="msg_registered">Susiha ang inyong e-mail ngadto sa activate sa imong device</string>
+    <string name="msg_service">Update sa pag-alagad running</string>
+    <string name="msg_migrating">Migración %1$s</string>
+    <string name="msg_randomizing">Asignaron al azar %1$s</string>
+    <string name="msg_upgrading">Actualización %1$s</string>
+    <string name="msg_support_info">Una verificación interna fracasó, ¿quieres enviar la información de servicio técnico?</string>
+    <string name="msg_restrictedby">Gipig-otan sa XPrivacy</string>
+    <string name="msg_service_missing">Privacy nga pag-alagad nga wala makita; nga ikaw makahimo XPrivacy sa Xposed installer ug rebot sa imong device?</string>
+    <string name="msg_service_version">Privacy sa pag-alagad version mismatch; nga ikaw rebot sa imong device human sa pag-upgrade XPrivacy?</string>
+    <string name="msg_service_updating">Palihug maghulat hangtud nga ang update nga pag-alagad nga nahuman</string>
+    <string name="msg_expert">Eksperto users unta sa pagsulbad sa ilang mga problema diin posible ug sa pagsunod sa XDA XPrivacy forum ug sa pagtabang sa uban kon mahimo</string>
+    <string name="msg_method_expert">Function pagdili gituyo alang sa eksperto users. Ikaw ba usa ka eksperto sa user?</string>
+    <string name="msg_longpress_whitelist">Long press function ngalan sa puti nga o itom nga listahan sukaranan</string>
+    <string name="msg_settings_specific">Check mga marka ug mga prinsipyo nga mopatigbabaw kay sa global check marka ug mga mithi; walay sulod nga mga kahon check ug mga prinsipyo dili unahon</string>
+    <string name="msg_first"><b>Dakong pag-atiman nga gikuha sa pagpalambo ug test XPrivacy, 
+Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa matag usa ug sa matag device ug alang sa matag usa ug sa matag aplikasyon. 
+\n\nmao ang bug-os sa imong kaugalingong risgo. </b>\n\nusab ang lisensiya:</string>
+    <string name="restrict_accounts" tools:ignore="UnusedResources">Asoy</string>
+    <string name="restrict_browser" tools:ignore="UnusedResources">navegador</string>
     <string name="restrict_calendar" tools:ignore="UnusedResources">Calendar</string>
     <string name="restrict_calling" tools:ignore="UnusedResources">Calling</string>
     <string name="restrict_clipboard" tools:ignore="UnusedResources">Clipboard</string>
