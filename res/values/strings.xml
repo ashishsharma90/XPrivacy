@@ -5,7 +5,7 @@
     <string name="app_notenabled">XPrivacy wala nakahimo sa Xposed instalador</string>
     <string name="app_wrongandroid">Lamang alang sa Android nga bersyon 4.0.3+</string>
     <string name="app_incompatible">XPrivacy wala mahiuyon sa %1$s</string>
-    <string name="app_wrongenabler" translatable="false">Palihug upgrade sa mga Pro enabler</string>
+    <string name="app_wrongenabler" translatable="false">Palihug actualización sa mga Pro enabler</string>
     <string name="app_version">Versión XPrivacy: %1$s (%2$d)</string>
     <string name="app_description">Ang katapusang administrador de privacidad</string>
     <string name="app_copyright">Derecho de Autor \u00A9 2013–2014 by M. Bokhorst (M66B)</string>
@@ -34,8 +34,8 @@
     <string name="menu_clear_all">klarohon sa tanan nga mga</string>
     <string name="menu_clear_usage">klarohon</string>
     <string name="menu_clear_db">klarohon sa tanan nga mga XPrivacy data</string>
-    <string name="menu_usage_all">filtro toggle</string>
-    <string name="menu_apply">Ibutang ang template</string>
+    <string name="menu_usage_all">filtro palanca</string>
+    <string name="menu_apply">Ibutang ang plantilla</string>
     <string name="menu_clear">klarohon</string>
     <string name="menu_app_launch">paglusad</string>
     <string name="menu_app_settings">Diin Nahitabo</string>
@@ -44,7 +44,7 @@
     <string name="menu_accounts">Pagpili mga asoy sa pagtugot sa</string>
     <string name="menu_applications">Pagpili aplikasyon sa pagtugot sa</string>
     <string name="menu_contacts">Pagpili kontak sa pagtugot sa</string>
-    <string name="menu_whitelists">pagdumala whitelists</string>
+    <string name="menu_whitelists">pagdumala listas blancas</string>
     <string name="menu_tutorial">sa panudlo</string>
     <string name="menu_changelog">cambios</string>
     <string name="menu_flush">Vaciar caché</string>
@@ -59,34 +59,34 @@
     <string name="msg_applying">Ang pagpadapat &#8230;</string>
     <string name="msg_applied">Plantilla aplica</string>
     <string name="msg_saved_to">maluwas sa %1$s</string>
-    <string name="msg_no_restrictions">No pagdili nga nakaplagan</string>
+    <string name="msg_no_restrictions">Dili pagdili nga nakaplagan</string>
     <string name="msg_sure">Sigurado?</string>
     <string name="msg_select">Palihug pagpili sa pipila ka mga aplikasyon</string>
     <string name="msg_limit">Palihug pagpili may diriyut pa kay sa %1$d aplikasyon</string>
-    <string name="msg_done">¡Está hecho!</string>
-    <string name="msg_reboot">Device pagsugod usab nga gikinahanglan</string>
+    <string name="msg_done">Está hecho!</string>
+    <string name="msg_reboot">himan pagsugod usab nga gikinahanglan</string>
     <string name="msg_random_now">Selección aleatoria de ahora</string>
     <string name="msg_random_access">Selección aleatoria de acceso</string>
     <string name="msg_random_boot">Selección aleatoria en el arranque</string>
-    <string name="msg_restart">Application pagsugod usab nga gikinahanglan</string>
-    <string name="msg_register">Palihug register sa imong device</string>
-    <string name="msg_email">Palihug mosulod sa inyong e-mail address:</string>
-    <string name="msg_registered">Susiha ang inyong e-mail ngadto sa activate sa imong device</string>
-    <string name="msg_service">Update sa pag-alagad running</string>
+    <string name="msg_restart">aplikasyon pagsugod usab nga gikinahanglan</string>
+    <string name="msg_register">Palihug magpalista sa imong himan</string>
+    <string name="msg_email">Palihug mosulod sa inyong e-mail dirección:</string>
+    <string name="msg_registered">Susiha ang inyong e-mail ngadto sa activar sa imong himan</string>
+    <string name="msg_service">actualización sa pag-alagad running</string>
     <string name="msg_migrating">Migración %1$s</string>
     <string name="msg_randomizing">Asignaron al azar %1$s</string>
     <string name="msg_upgrading">Actualización %1$s</string>
     <string name="msg_support_info">Una verificación interna fracasó, ¿quieres enviar la información de servicio técnico?</string>
     <string name="msg_restrictedby">Gipig-otan sa XPrivacy</string>
-    <string name="msg_service_missing">Privacy nga pag-alagad nga wala makita; nga ikaw makahimo XPrivacy sa Xposed installer ug rebot sa imong device?</string>
-    <string name="msg_service_version">Privacy sa pag-alagad version mismatch; nga ikaw rebot sa imong device human sa pag-upgrade XPrivacy?</string>
+    <string name="msg_service_missing">pag-inusara nga pag-alagad nga wala makita; nga ikaw makahimo XPrivacy sa Xposed instalador ug rebot sa imong himan?</string>
+    <string name="msg_service_version">pag-inusara sa pag-alagad batbat desajuste; nga ikaw rebot sa imong himan human sa pag-upgrade XPrivacy?</string>
     <string name="msg_service_updating">Palihug maghulat hangtud nga ang update nga pag-alagad nga nahuman</string>
-    <string name="msg_expert">Eksperto users unta sa pagsulbad sa ilang mga problema diin posible ug sa pagsunod sa XDA XPrivacy forum ug sa pagtabang sa uban kon mahimo</string>
-    <string name="msg_method_expert">Function pagdili gituyo alang sa eksperto users. Ikaw ba usa ka eksperto sa user?</string>
-    <string name="msg_longpress_whitelist">Long press function ngalan sa puti nga o itom nga listahan sukaranan</string>
-    <string name="msg_settings_specific">Check mga marka ug mga prinsipyo nga mopatigbabaw kay sa global check marka ug mga mithi; walay sulod nga mga kahon check ug mga prinsipyo dili unahon</string>
+    <string name="msg_expert">Eksperto tiggamit unta sa pagsulbad sa ilang mga problema diin posible ug sa pagsunod sa XDA XPrivacy forum ug sa pagtabang sa uban kon mahimo</string>
+    <string name="msg_method_expert">Function pagdili gituyo alang sa eksperto tiggamit. Ikaw ba usa ka eksperto sa tiggamit?</string>
+    <string name="msg_longpress_whitelist">Función Pulsación larga ngalan sa puti nga o itom nga listahan sukaranan</string>
+    <string name="msg_settings_specific">tseke mga marka ug mga prinsipyo nga mopatigbabaw kay sa global tseke marka ug mga mithi; walay sulod nga mga kahon tseke ug mga prinsipyo dili unahon</string>
     <string name="msg_first"><b>Dakong pag-atiman nga gikuha sa pagpalambo ug test XPrivacy, 
-Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa matag usa ug sa matag device ug alang sa matag usa ug sa matag aplikasyon. 
+Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa matag usa ug sa matag himan ug alang sa matag usa ug sa matag aplikasyon. 
 \n\nmao ang bug-os sa imong kaugalingong risgo. </b>\n\nusab ang lisensiya:</string>
     <string name="restrict_accounts" tools:ignore="UnusedResources">Asoy</string>
     <string name="restrict_browser" tools:ignore="UnusedResources">navegador</string>
@@ -112,44 +112,44 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="restrict_shell" tools:ignore="UnusedResources">bagol</string>
     <string name="restrict_system" tools:ignore="UnusedResources">sistema</string>
     <string name="restrict_view" tools:ignore="UnusedResources">panlantaw</string>
-    <string name="restrict_help_view" tools:ignore="UnusedResources">Ba idili access sa pagtan-aw mga lihok ug impormasyon</string>
-    <string name="restrict_help_system" tools:ignore="UnusedResources">Ba idili access sa sistema sa impormasyon, sama sa instalar mga aplikasyon</string>
-    <string name="restrict_help_shell" tools:ignore="UnusedResources">Ba idili access sa kabhang mga sugo, lakip na ang superuser mga sugo</string>
-    <string name="restrict_help_storage" tools:ignore="UnusedResources">Ba idili access ngadto sa storage, sama sa mga file diha sa imong SD card o sa internal storage</string>
-    <string name="restrict_help_sensors" tools:ignore="UnusedResources">Ba idili access ngadto sa mga sensors, sama sa motion sensor</string>
-    <string name="restrict_help_phone" tools:ignore="UnusedResources">Ba idili access sa telepono nga impormasyon, sama sa imong numero sa telepono</string>
+    <string name="restrict_help_view" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa pagtan-aw mga lihok ug impormasyon</string>
+    <string name="restrict_help_system" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa sistema sa impormasyon, sama sa instalar mga aplikasyon</string>
+    <string name="restrict_help_shell" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa kabhang mga sugo, lakip na ang superusuario mga sugo</string>
+    <string name="restrict_help_storage" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod ngadto sa storage, sama sa mga limbas diha sa imong SD card o sa almacenamiento interno</string>
+    <string name="restrict_help_sensors" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod ngadto sa mga sensors, sama sa sensor de movimiento</string>
+    <string name="restrict_help_phone" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa telepono nga impormasyon, sama sa imong numero sa telepono</string>
     <string name="restrict_help_overlay" tools:ignore="UnusedResources">Ba idili pagahal-upan tamboanan sa pagpugong sa phishing</string>
-    <string name="restrict_help_notifications" tools:ignore="UnusedResources">Ba idili access sa sistema sa ug paggamit notifications ug sa Google panganod messaging</string>
-    <string name="restrict_help_nfc" tools:ignore="UnusedResources">Ba idili access ngadto sa duol sa uma sa komunikasyon</string>
-    <string name="restrict_help_network" tools:ignore="UnusedResources">Ba idili access sa network nga impormasyon, sama sa IP ug MAC addresses ug Wi-Fi network nga impormasyon</string>
-    <string name="restrict_help_messages" tools:ignore="UnusedResources">Ba idili access sa gitipigan ug nakadawat nga mga mensahe (SMS / MMS) ug voicemail</string>
-    <string name="restrict_help_media" tools:ignore="UnusedResources">Ba idili access ngadto sa camera (mga litrato ug mga video) ug sa mikropono</string>
-    <string name="restrict_help_location" tools:ignore="UnusedResources">Ba idili access sa imong coarse ug lino nga fino nga lokasyon</string>
+    <string name="restrict_help_notifications" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa sistema sa ug paggamit notificaciones ug sa Google panganod mensajería</string>
+    <string name="restrict_help_nfc" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod ngadto sa duol sa uma sa komunikasyon</string>
+    <string name="restrict_help_network" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa red nga impormasyon, sama sa IP ug MAC mga pakigpulong ug Wi-Fi red nga impormasyon</string>
+    <string name="restrict_help_messages" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa gitipigan ug nakadawat nga mga mensahe (SMS/MMS) ug voicemail</string>
+    <string name="restrict_help_media" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod ngadto sa cámara (mga litrato ug mga video) ug sa mikropono</string>
+    <string name="restrict_help_location" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa imong coarse ug lino nga fino nga lokasyon</string>
     <string name="restrict_help_ipc" tools:ignore="UnusedResources">Ba idili inter-proseso sa komunikasyon, sa diha nga gigamit sa circumvent sa uban nga mga pagdili</string>
-    <string name="restrict_help_internet" tools:ignore="UnusedResources">Ba idili access sa Internet</string>
-    <string name="restrict_help_identification" tools:ignore="UnusedResources">Ba idili impormasyon nga sa pag-ila kaninyo, sama sa serial number sa imong device</string>
-    <string name="restrict_help_email" tools:ignore="UnusedResources">Ba idili access sa e-mail nga impormasyon, sama sa mga pakigpulong ug mga mensahe (standard ug G-mail application lamang)</string>
-    <string name="restrict_help_dictionary" tools:ignore="UnusedResources">Ba idili access ngadto sa user dictionary</string>
-    <string name="restrict_help_contacts" tools:ignore="UnusedResources">Ba idili access sa impormasyon mahitungod sa imong mga kontak</string>
-    <string name="restrict_help_clipboard" tools:ignore="UnusedResources">Ba idili access sa impormasyon sa Clipboard</string>
-    <string name="restrict_help_calling" tools:ignore="UnusedResources">Ba idili sa pagtawag sa telepono numero, pagpadala og mga mensahe (SMS / MMS) ug access sa imong calling sa kasaysayan</string>
-    <string name="restrict_help_calendar" tools:ignore="UnusedResources">Ba idili access sa imong kalendaryo nga impormasyon, sama sa imong mga pagtudlo</string>
-    <string name="restrict_help_browser" tools:ignore="UnusedResources">Ba idili access sa browser nga impormasyon, sama sa inyong mga bookmark ug sa download sa kasaysayan</string>
-    <string name="restrict_help_accounts" tools:ignore="UnusedResources">Ba idili access sa account sa impormasyon, sama sa inyong mga Google account, nga naglakip sa inyong mga G-mail address</string>
+    <string name="restrict_help_internet" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa Internet</string>
+    <string name="restrict_help_identification" tools:ignore="UnusedResources">Ba idili impormasyon nga sa pag-ila kaninyo, sama sa número de serie sa imong himan</string>
+    <string name="restrict_help_email" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa e-mail nga impormasyon, sama sa mga pakigpulong ug mga mensahe (kasagaran ug G-mail application lamang)</string>
+    <string name="restrict_help_dictionary" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod ngadto sa user diksyonario</string>
+    <string name="restrict_help_contacts" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa impormasyon mahitungod sa imong mga kontak</string>
+    <string name="restrict_help_clipboard" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa impormasyon sa Portapapeles</string>
+    <string name="restrict_help_calling" tools:ignore="UnusedResources">Ba idili sa pagtawag sa telepono numero, pagpadala og mga mensahe (SMS/MMS) ug paagi sa pagduol o pagsulod sa imong calling sa kasaysayan</string>
+    <string name="restrict_help_calendar" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa imong kalendaryo nga impormasyon, sama sa imong mga pagtudlo</string>
+    <string name="restrict_help_browser" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa browser nga impormasyon, sama sa inyong mga bookmark ug sa download sa kasaysayan</string>
+    <string name="restrict_help_accounts" tools:ignore="UnusedResources">Ba idili paagi sa pagduol o pagsulod sa account sa impormasyon, sama sa inyong mga Google asoy, nga naglakip sa inyong mga G-mail pakigpulong</string>
     <string name="whitelist_address" tools:ignore="UnusedResources">Pakigpulong</string>
     <string name="whitelist_action" tools:ignore="UnusedResources">aksyon</string>
     <string name="whitelist_ipaddress" tools:ignore="UnusedResources">IP adres sa</string>
     <string name="whitelist_library" tools:ignore="UnusedResources">Lumad nga librarya</string>
     <string name="whitelist_method" tools:ignore="UnusedResources">pamaagi mga ngalan</string>
-    <string name="whitelist_filename" tools:ignore="UnusedResources">file mga ngalan</string>
-    <string name="whitelist_command" tools:ignore="UnusedResources">Los comandos del shell</string>
+    <string name="whitelist_filename" tools:ignore="UnusedResources">limbas mga ngalan</string>
+    <string name="whitelist_command" tools:ignore="UnusedResources">Los comandos del kabhang</string>
     <string name="whitelist_url" tools:ignore="UnusedResources">mga URL</string>
     <string name="whitelist_transaction" tools:ignore="UnusedResources">mga transaksyon</string>
     <string name="whitelist_permission" tools:ignore="UnusedResources">Permisos</string>
     <string name="whitelist_proc" translatable="false" tools:ignore="UnusedResources">/proc</string>
-    <string name="title_restrict">Check sa pagpugong:</string>
-    <string name="title_check_whitelist">Check sa pagtugot sa:</string>
-    <string name="title_fused">Filter sa data paggamit</string>
+    <string name="title_restrict">tseke sa pagpugong:</string>
+    <string name="title_check_whitelist">tseke sa pagtugot sa:</string>
+    <string name="title_fused">Filtro sa data paggamit</string>
     <string name="title_finternet">Filtrar el acceso a internet</string>
     <string name="title_fpermission">Filtrar el permiso</string>
     <string name="title_frestricted">Filtra el restringido</string>
@@ -160,11 +160,11 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="title_sname">pinaagi sa ngalan</string>
     <string name="title_suid">Pinaagi sa uid</string>
     <string name="title_sinstalled">Pinaagi sa petsa-instalar</string>
-    <string name="title_supdated">Pinaagi sa date updated</string>
-    <string name="title_smodified">Pinaagi sa date giusab (XPrivacy)</string>
+    <string name="title_supdated">Pinaagi sa fecha updated</string>
+    <string name="title_smodified">Pinaagi sa fecha giusab (XPrivacy)</string>
     <string name="title_sstate">Pinaagi sa estado (XPrivacy)</string>
     <string name="title_sinvert">Baliha ang matang order</string>
-    <string name="title_attempt">Usage pagsulay sa:</string>
+    <string name="title_attempt">Uso pagsulay sa:</string>
     <string name="title_category">kategorya:</string>
     <string name="title_function">kalihokan:</string>
     <string name="title_parameters">pag-lantugi:</string>
@@ -177,11 +177,11 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="title_pleasesubmit">Palihug ipadala ang imong mga pagdili sa pagtabang sa uban</string>
     <string name="title_permissions">pagtugot</string>
     <string name="title_set_restrict">Idili (kategoriya)</string>
-    <string name="title_template_category">Ibutang ang template (kategoriya)</string>
-    <string name="title_template_full">Ibutang ang template (kategoriya + gimbuhaton)</string>
-    <string name="title_template_merge">Ibutang ang template (iusa set)</string>
-    <string name="title_template_merge_reset">Ibutang ang template (iusa reset)</string>
-    <string name="title_enable_ondemand">Enable sa demand paggapos</string>
+    <string name="title_template_category">Ibutang ang plantilla (kategoriya)</string>
+    <string name="title_template_full">Ibutang ang plantilla (kategoriya + gimbuhaton)</string>
+    <string name="title_template_merge">Ibutang ang plantilla (iusa set)</string>
+    <string name="title_template_merge_reset">Ibutang ang plantilla (iusa reset)</string>
+    <string name="title_enable_ondemand">Habilitar sa demand paggapos</string>
     <string name="title_disable_ondemand">Naghimo og kakulangan sa demand paggapos</string>
     <string name="title_ondemand_default">Tiempo de espera será:</string>
     <string name="title_ondemand_reset">Restablecer</string>
@@ -189,10 +189,10 @@ Apan kini mao ang dili gayud mahimo sa garantiya kini pagtrabaho hingpit sa mata
     <string name="title_alternate">sal-angsal-angon</string>
     <string name="title_rename">usab sa ngalan</string>
     <string name="title_usage_header">Uso</string>
-    <string name="title_usage_text_1">1. Busque la aplicación para restringir en la lista de aplicaciones principal</string>
+    <string name="title_usage_text_1">1. Busque la aplicacin para restringir en la lista de aplicaciones prinsipal</string>
     <string name="title_usage_text_2">2. Toque en el icono de la aplicación o el nombre</string>
     <string name="title_usage_text_3">3. Toque el cuadro de primer cheque de cualquier categoría que desee restringir</string>
-    <string name="title_usage_footer">Use el sentido común cuando la restricción, esperar el acceso a Internet si se restringía la categoría de Internet, etc</string>
+    <string name="title_usage_footer">Use el sentido común cuando la restricción, esperar el acceso a Internet si se restringía la categoría de Internet</string>
     <string name="title_toggle_dangerous">Pulsación larga en un título para alternar las funciones peligrosas</string>
     <string name="title_ondemand_category">Aplicando a la categoría restablecerá las excepciones de la función a los valores por defecto</string>
     <string name="title_function_help">documentación Función</string>
