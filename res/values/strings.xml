@@ -64,54 +64,54 @@
     <string name="msg_select">Dewiswch rhai ceisiadau</string>
     <string name="msg_limit">Dewiswch llai na %1$d ceisiadau</string>
     <string name="msg_done">Trato hecho</string>
-    <string name="msg_reboot">Device restart required</string>
-    <string name="msg_random_now">Randomize now</string>
-    <string name="msg_random_access">Randomize on access</string>
-    <string name="msg_random_boot">Randomize on boot</string>
-    <string name="msg_restart">Application restart required</string>
-    <string name="msg_register">Please register your device</string>
-    <string name="msg_email">Please enter your e-mail address:</string>
-    <string name="msg_registered">Check your e-mail to activate your device</string>
-    <string name="msg_service">Update service running</string>
-    <string name="msg_migrating">Migrating %1$s</string>
-    <string name="msg_randomizing">Randomizing %1$s</string>
-    <string name="msg_upgrading">Upgrading %1$s</string>
-    <string name="msg_support_info">An internal check failed, do you want to send the support info?</string>
-    <string name="msg_restrictedby">Restricted by XPrivacy</string>
-    <string name="msg_service_missing">Privacy service not found; did you enable XPrivacy in the Xposed installer and reboot your device?</string>
-    <string name="msg_service_version">Privacy service version mismatch; did you reboot your device after upgrading XPrivacy?</string>
-    <string name="msg_service_updating">Please wait until the update service has been completed</string>
-    <string name="msg_expert">Expert users are supposed to solve their own problems where possible and to follow the XDA XPrivacy forum and help others where possible</string>
-    <string name="msg_method_expert">Function restrictions are meant for expert users. Are you an expert user?</string>
-    <string name="msg_longpress_whitelist">Long press function name to white or black list parameter</string>
-    <string name="msg_settings_specific">Check marks and values take precedence over global check marks and values; empty check boxes and values do not take precedence</string>
-    <string name="msg_first"><b>Great care has been taken to develop and test XPrivacy,
-however it is impossible to guarantee it will work flawlessly on each and every device and for each and every application.
-\n\nUse is entirely at your own risk.</b>\n\nSee also the license:</string>
-    <string name="restrict_accounts" tools:ignore="UnusedResources">Accounts</string>
-    <string name="restrict_browser" tools:ignore="UnusedResources">Browser</string>
-    <string name="restrict_calendar" tools:ignore="UnusedResources">Calendar</string>
-    <string name="restrict_calling" tools:ignore="UnusedResources">Calling</string>
-    <string name="restrict_clipboard" tools:ignore="UnusedResources">Clipboard</string>
-    <string name="restrict_contacts" tools:ignore="UnusedResources">Contacts</string>
-    <string name="restrict_dictionary" tools:ignore="UnusedResources">Dictionary</string>
+    <string name="msg_reboot">Reinicio del equipo necesario</string>
+    <string name="msg_random_now">Selección aleatoria de ahora</string>
+    <string name="msg_random_access">Selección aleatoria de acceso</string>
+    <string name="msg_random_boot">Selección aleatoria en el arranque</string>
+    <string name="msg_restart">El reinicio de aplicaciones requiere</string>
+    <string name="msg_register">Por favor registre su dispositivo</string>
+    <string name="msg_email">Introduzca su dirección de correo electrónico:</string>
+    <string name="msg_registered">Revise su correo electrónico para activar su dispositivo</string>
+    <string name="msg_service">Servicio de actualización en ejecución</string>
+    <string name="msg_migrating">Migración %1$s</string>
+    <string name="msg_randomizing">Asignaron al azar %1$s</string>
+    <string name="msg_upgrading">Actualización %1$s</string>
+    <string name="msg_support_info">Una verificación interna fracasó, ¿quieres enviar la información de servicio técnico?</string>
+    <string name="msg_restrictedby">Restringido por XPrivacy</string>
+    <string name="msg_service_missing">Servicio de privacidad no encontrado; Qué habilita XPrivacy en el instalador Xposed y reiniciar el dispositivo?</string>
+    <string name="msg_service_version">Versión de servicio de privacidad desajuste; Qué reiniciar el dispositivo después de actualizar XPrivacy?</string>
+    <string name="msg_service_updating">Por favor, espere hasta que el servicio de actualización se ha completado</string>
+    <string name="msg_expert">Los usuarios expertos se supone que deben resolver sus propios problemas cuando sea posible y seguir el foro XDA XPrivacy y ayudar a otros cuando sea posible</string>
+    <string name="msg_method_expert">Restricciones de función están destinados a usuarios expertos. ¿Eres un usuario experto?</string>
+    <string name="msg_longpress_whitelist">Pulsación larga nombre de la función a la lista de parámetros de color blanco o negro</string>
+    <string name="msg_settings_specific">Las marcas de verificación y los valores tienen prioridad sobre las marcas y los valores de verificación a nivel mundial; casillas vacías y los valores no tienen prioridad</string>
+    <string name="msg_first"><b>Gran cuidado se ha tomado para desarrollar y XPrivacy prueba, 
+sin embargo, es imposible garantizar que funcionará sin problemas en todas y cada dispositivo y para cada aplicación. 
+\n\nes bajo su propio riesgo.</b>\n\nConsulte también la licencia:</string>
+    <string name="restrict_accounts" tools:ignore="UnusedResources">cyfrifon</string>
+    <string name="restrict_browser" tools:ignore="UnusedResources">porwr</string>
+    <string name="restrict_calendar" tools:ignore="UnusedResources">calendr</string>
+    <string name="restrict_calling" tools:ignore="UnusedResources">galw</string>
+    <string name="restrict_clipboard" tools:ignore="UnusedResources">clipfwrdd</string>
+    <string name="restrict_contacts" tools:ignore="UnusedResources">Cysylltiadau</string>
+    <string name="restrict_dictionary" tools:ignore="UnusedResources">geiriadur</string>
     <string name="restrict_email" tools:ignore="UnusedResources">E-mail</string>
-    <string name="restrict_identification" tools:ignore="UnusedResources">Identification</string>
-    <string name="restrict_internet" tools:ignore="UnusedResources">Internet</string>
+    <string name="restrict_identification" tools:ignore="UnusedResources">Adnabod</string>
+    <string name="restrict_internet" tools:ignore="UnusedResources">Adnabod</string>
     <string name="restrict_ipc" translatable="false" tools:ignore="UnusedResources">IPC</string>
-    <string name="restrict_location" tools:ignore="UnusedResources">Location</string>
-    <string name="restrict_media" tools:ignore="UnusedResources">Media</string>
-    <string name="restrict_messages" tools:ignore="UnusedResources">Messages</string>
-    <string name="restrict_network" tools:ignore="UnusedResources">Network</string>
+    <string name="restrict_location" tools:ignore="UnusedResources">lleoliad</string>
+    <string name="restrict_media" tools:ignore="UnusedResources">cyfryngau</string>
+    <string name="restrict_messages" tools:ignore="UnusedResources">negeseuon</string>
+    <string name="restrict_network" tools:ignore="UnusedResources">rhwydwaith</string>
     <string name="restrict_nfc" translatable="false" tools:ignore="UnusedResources">NFC</string>
-    <string name="restrict_notifications" tools:ignore="UnusedResources">Notifications</string>
-    <string name="restrict_overlay" tools:ignore="UnusedResources">Overlay</string>
-    <string name="restrict_phone" tools:ignore="UnusedResources">Phone</string>
-    <string name="restrict_sensors" tools:ignore="UnusedResources">Sensors</string>
-    <string name="restrict_storage" tools:ignore="UnusedResources">Storage</string>
-    <string name="restrict_shell" tools:ignore="UnusedResources">Shell</string>
-    <string name="restrict_system" tools:ignore="UnusedResources">System</string>
-    <string name="restrict_view" tools:ignore="UnusedResources">View</string>
+    <string name="restrict_notifications" tools:ignore="UnusedResources">hysbysiadau</string>
+    <string name="restrict_overlay" tools:ignore="UnusedResources">troshaen</string>
+    <string name="restrict_phone" tools:ignore="UnusedResources">ffôn</string>
+    <string name="restrict_sensors" tools:ignore="UnusedResources">synwyryddion</string>
+    <string name="restrict_storage" tools:ignore="UnusedResources">storio</string>
+    <string name="restrict_shell" tools:ignore="UnusedResources">gragen</string>
+    <string name="restrict_system" tools:ignore="UnusedResources">gyfundrefn</string>
+    <string name="restrict_view" tools:ignore="UnusedResources">golwg</string>
     <string name="restrict_help_view" tools:ignore="UnusedResources">Will restrict access to view actions and information</string>
     <string name="restrict_help_system" tools:ignore="UnusedResources">Will restrict access to system information, like installed applications</string>
     <string name="restrict_help_shell" tools:ignore="UnusedResources">Will restrict access to shell commands, including superuser commands</string>
