@@ -112,78 +112,78 @@ sin embargo, es imposible garantizar que funcionará sin problemas en todas y ca
     <string name="restrict_shell" tools:ignore="UnusedResources">gragen</string>
     <string name="restrict_system" tools:ignore="UnusedResources">gyfundrefn</string>
     <string name="restrict_view" tools:ignore="UnusedResources">golwg</string>
-    <string name="restrict_help_view" tools:ignore="UnusedResources">Will restrict access to view actions and information</string>
-    <string name="restrict_help_system" tools:ignore="UnusedResources">Will restrict access to system information, like installed applications</string>
-    <string name="restrict_help_shell" tools:ignore="UnusedResources">Will restrict access to shell commands, including superuser commands</string>
-    <string name="restrict_help_storage" tools:ignore="UnusedResources">Will restrict access to the storage, like files on your SD card or the internal storage</string>
-    <string name="restrict_help_sensors" tools:ignore="UnusedResources">Will restrict access to the sensors, like the motion sensor</string>
-    <string name="restrict_help_phone" tools:ignore="UnusedResources">Will restrict access to phone information, like your phone number</string>
-    <string name="restrict_help_overlay" tools:ignore="UnusedResources">Will restrict overlay windows to prevent phishing</string>
-    <string name="restrict_help_notifications" tools:ignore="UnusedResources">Will restrict access to system and application notifications and Google cloud messaging</string>
-    <string name="restrict_help_nfc" tools:ignore="UnusedResources">Will restrict access to near field communication</string>
-    <string name="restrict_help_network" tools:ignore="UnusedResources">Will restrict access to network information, like IP and MAC addresses and Wi-Fi network information</string>
-    <string name="restrict_help_messages" tools:ignore="UnusedResources">Will restrict access to stored and received messages (SMS/MMS) and voicemail</string>
-    <string name="restrict_help_media" tools:ignore="UnusedResources">Will restrict access to the camera (photos and videos) and the microphone</string>
-    <string name="restrict_help_location" tools:ignore="UnusedResources">Will restrict access to your coarse and fine location</string>
-    <string name="restrict_help_ipc" tools:ignore="UnusedResources">Will restrict inter-process communication, when used to circumvent other restrictions</string>
-    <string name="restrict_help_internet" tools:ignore="UnusedResources">Will restrict access to the Internet</string>
-    <string name="restrict_help_identification" tools:ignore="UnusedResources">Will restrict information which can identify you, like the serial number of your device</string>
-    <string name="restrict_help_email" tools:ignore="UnusedResources">Will restrict access to e-mail information, like addresses and messages (standard and G-mail application only)</string>
-    <string name="restrict_help_dictionary" tools:ignore="UnusedResources">Will restrict access to the user dictionary</string>
-    <string name="restrict_help_contacts" tools:ignore="UnusedResources">Will restrict access to information about your contacts</string>
-    <string name="restrict_help_clipboard" tools:ignore="UnusedResources">Will restrict access to information on the clipboard</string>
-    <string name="restrict_help_calling" tools:ignore="UnusedResources">Will restrict calling phone numbers, sending messages (SMS/MMS) and access to your calling history</string>
-    <string name="restrict_help_calendar" tools:ignore="UnusedResources">Will restrict access to your calendar information, like your appointments</string>
-    <string name="restrict_help_browser" tools:ignore="UnusedResources">Will restrict access to browser information, like your bookmarks and the download history</string>
-    <string name="restrict_help_accounts" tools:ignore="UnusedResources">Will restrict access to account information, like your Google account, which includes your G-mail address</string>
-    <string name="whitelist_address" tools:ignore="UnusedResources">Addresses</string>
-    <string name="whitelist_action" tools:ignore="UnusedResources">Action</string>
-    <string name="whitelist_ipaddress" tools:ignore="UnusedResources">IP addresses</string>
-    <string name="whitelist_library" tools:ignore="UnusedResources">Native libraries</string>
-    <string name="whitelist_method" tools:ignore="UnusedResources">Method names</string>
-    <string name="whitelist_filename" tools:ignore="UnusedResources">File names</string>
-    <string name="whitelist_command" tools:ignore="UnusedResources">Shell commands</string>
+    <string name="restrict_help_view" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i weld y camau gweithredu a gwybodaeth</string>
+    <string name="restrict_help_system" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at wybodaeth y system, fel ceisiadau gorseddedig</string>
+    <string name="restrict_help_shell" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i orchmynion cregyn, gan gynnwys gorchmynion uwch ddefnyddiwr</string>
+    <string name="restrict_help_storage" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at y storfa, fel ffeiliau ar eich cerdyn SD neu storio mewnol</string>
+    <string name="restrict_help_sensors" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at y synwyryddion, fel y synhwyrydd cynnig</string>
+    <string name="restrict_help_phone" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at wybodaeth ffôn, fel eich rhif ffôn</string>
+    <string name="restrict_help_overlay" tools:ignore="UnusedResources">A fydd cyfyngu ffenestri troshaen i atal gwe-rwydo</string>
+    <string name="restrict_help_notifications" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at system a chymhwyso hysbysiadau a negeseuon cwmwl Google</string>
+    <string name="restrict_help_nfc" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i agos gyfathrebu cae</string>
+    <string name="restrict_help_network" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i rwydweithio gwybodaeth, fel IP a chyfeiriadau MAC a gwybodaeth rhwydwaith Wi-Fi</string>
+    <string name="restrict_help_messages" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at negeseuon storio a dderbyniwyd (SMS / MMS) a voicemail</string>
+    <string name="restrict_help_media" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at y camera (lluniau a fideos) a'r meicroffon</string>
+    <string name="restrict_help_location" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at eich lleoliad bras a dirwy</string>
+    <string name="restrict_help_ipc" tools:ignore="UnusedResources">A fydd cyfyngu cyfathrebu rhwng proses, pan gaiff ei ddefnyddio i osgoi cyfyngiadau eraill</string>
+    <string name="restrict_help_internet" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i'r Rhyngrwyd</string>
+    <string name="restrict_help_identification" tools:ignore="UnusedResources">A fydd gyfyngu ar wybodaeth a all adnabod chi, fel y rhif cyfresol eich dyfais</string>
+    <string name="restrict_help_email" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at wybodaeth e-bost, fel cyfeiriadau a negeseuon (gais safonol a G-bost yn unig)</string>
+    <string name="restrict_help_dictionary" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at y geiriadur defnyddiwr</string>
+    <string name="restrict_help_contacts" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at wybodaeth am eich cysylltiadau</string>
+    <string name="restrict_help_clipboard" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i wybodaeth ar y clipfwrdd</string>
+    <string name="restrict_help_calling" tools:ignore="UnusedResources">A fydd cyfyngu ffonio rhifau ffôn, anfon negeseuon (SMS / MMS) a mynediad at eich hanes galw</string>
+    <string name="restrict_help_calendar" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at eich gwybodaeth calendr, fel eich apwyntiadau</string>
+    <string name="restrict_help_browser" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad at wybodaeth porwr, fel eich nodau tudalen a hanes llwytho i lawr</string>
+    <string name="restrict_help_accounts" tools:ignore="UnusedResources">A fydd cyfyngu ar fynediad i gyfrif wybodaeth, fel eich cyfrif Google, sy'n cynnwys eich cyfeiriad G-bost</string>
+    <string name="whitelist_address" tools:ignore="UnusedResources">cyfeiriadau</string>
+    <string name="whitelist_action" tools:ignore="UnusedResources">Gweithredu</string>
+    <string name="whitelist_ipaddress" tools:ignore="UnusedResources">cyfeiriadau IP</string>
+    <string name="whitelist_library" tools:ignore="UnusedResources">llyfrgelloedd brodorol</string>
+    <string name="whitelist_method" tools:ignore="UnusedResources">enwau dull</string>
+    <string name="whitelist_filename" tools:ignore="UnusedResources">enwau ffeiliau</string>
+    <string name="whitelist_command" tools:ignore="UnusedResources">gorchmynion Shell</string>
     <string name="whitelist_url" tools:ignore="UnusedResources">URLs</string>
-    <string name="whitelist_transaction" tools:ignore="UnusedResources">Transactions</string>
-    <string name="whitelist_permission" tools:ignore="UnusedResources">Permissions</string>
+    <string name="whitelist_transaction" tools:ignore="UnusedResources">trafodion</string>
+    <string name="whitelist_permission" tools:ignore="UnusedResources">caniatadau</string>
     <string name="whitelist_proc" translatable="false" tools:ignore="UnusedResources">/proc</string>
-    <string name="title_restrict">Check to restrict:</string>
-    <string name="title_check_whitelist">Check to allow:</string>
-    <string name="title_fused">Filter on data usage</string>
-    <string name="title_finternet">Filter on internet access</string>
-    <string name="title_fpermission">Filter on permission</string>
-    <string name="title_frestricted">Filter on restricted</string>
-    <string name="title_fuser">Filter on user applications</string>
-    <string name="title_fondemand">Filter by on-demand</string>
-    <string name="title_fsystem">Filter on system applications</string>
-    <string name="title_fnot">Negate</string>
-    <string name="title_sname">By name</string>
-    <string name="title_suid">By uid</string>
-    <string name="title_sinstalled">By date installed</string>
-    <string name="title_supdated">By date updated</string>
-    <string name="title_smodified">By date modified (XPrivacy)</string>
-    <string name="title_sstate">By state (XPrivacy)</string>
-    <string name="title_sinvert">Invert sort order</string>
-    <string name="title_attempt">Usage attempt of:</string>
-    <string name="title_category">Category:</string>
-    <string name="title_function">Function:</string>
-    <string name="title_parameters">Parameters:</string>
-    <string name="title_applycat">Apply to entire category</string>
-    <string name="title_once">Once for</string>
-    <string name="title_whitelist">White/blacklist &#8216;%1$s&#8217;</string>
-    <string name="title_allow">Allow</string>
-    <string name="title_deny">Deny</string>
-    <string name="title_dontknow">Don\'t know</string>
-    <string name="title_pleasesubmit">Please submit your restrictions to help others</string>
-    <string name="title_permissions">Permissions</string>
-    <string name="title_set_restrict">Restrict (categories)</string>
-    <string name="title_template_category">Apply template (categories)</string>
-    <string name="title_template_full">Apply template (categories+functions)</string>
-    <string name="title_template_merge">Apply template (merge set)</string>
-    <string name="title_template_merge_reset">Apply template (merge reset)</string>
-    <string name="title_enable_ondemand">Enable on demand restricting</string>
-    <string name="title_disable_ondemand">Disable on demand restricting</string>
-    <string name="title_ondemand_default">Timeout will:</string>
+    <string name="title_restrict">Gwiriwch i gyfyngu:</string>
+    <string name="title_check_whitelist">Gwiriwch i ganiatáu:</string>
+    <string name="title_fused">Hidlo ar ddefnydd data</string>
+    <string name="title_finternet">Hidlo ar fynediad i'r rhyngrwyd</string>
+    <string name="title_fpermission">Hidlo ar ganiatâd</string>
+    <string name="title_frestricted">Hidlo ar gyfyngu</string>
+    <string name="title_fuser">Hidlo ar geisiadau defnyddwyr</string>
+    <string name="title_fondemand">Hidlo yn ôl ar-alw</string>
+    <string name="title_fsystem">Hidlo ar geisiadau system</string>
+    <string name="title_fnot">negyddu</string>
+    <string name="title_sname">yn ôl enw</string>
+    <string name="title_suid">drwy uid</string>
+    <string name="title_sinstalled">Erbyn dyddiad gosod</string>
+    <string name="title_supdated">Erbyn dyddiad diweddaru</string>
+    <string name="title_smodified">Erbyn dyddiad a addaswyd (XPrivacy)</string>
+    <string name="title_sstate">Drwy wladwriaeth (XPrivacy)</string>
+    <string name="title_sinvert">Gwrthdroi'r drefn</string>
+    <string name="title_attempt">Defnydd ymgais o:</string>
+    <string name="title_category">categori:</string>
+    <string name="title_function">swyddogaeth:</string>
+    <string name="title_parameters">paramedrau:</string>
+    <string name="title_applycat">Gwneud cais i gategori cyfan</string>
+    <string name="title_once">unwaith ar gyfer</string>
+    <string name="title_whitelist">Gwyn/rhestr ddu &#8216;%1$s&#8217;</string>
+    <string name="title_allow">caniatáu</string>
+    <string name="title_deny">gwrthod</string>
+    <string name="title_dontknow">gwybod</string>
+    <string name="title_pleasesubmit">Cyflwynwch eich cyfyngiadau i helpu eraill</string>
+    <string name="title_permissions">caniatadau</string>
+    <string name="title_set_restrict">Cyfyngu (categori)</string>
+    <string name="title_template_category">Gwneud cais templed (categorïau)</string>
+    <string name="title_template_full">Gwneud cais templed (categorïau+swyddogaethau)</string>
+    <string name="title_template_merge">Gwneud cais templed (uno set)</string>
+    <string name="title_template_merge_reset">Gwneud cais templed (uno reset)</string>
+    <string name="title_enable_ondemand">Galluogi ar cyfyngu galw</string>
+    <string name="title_disable_ondemand">Analluoga ar cyfyngu galw</string>
+    <string name="title_ondemand_default">Goramser bydd:</string>
     <string name="title_ondemand_reset">Reset</string>
     <string name="title_default">Default</string>
     <string name="title_alternate">Alternate</string>
