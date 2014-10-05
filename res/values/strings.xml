@@ -65,9 +65,9 @@
     <string name="msg_limit">Dewiswch llai na %1$d ceisiadau</string>
     <string name="msg_done">Trato hecho</string>
     <string name="msg_reboot">Reinicio del equipo necesario</string>
-    <string name="msg_random_now">Selección aleatoria de ahora</string>
-    <string name="msg_random_access">Selección aleatoria de acceso</string>
-    <string name="msg_random_boot">Selección aleatoria en el arranque</string>
+    <string name="msg_random_now">Dewis aleatoria de ahora</string>
+    <string name="msg_random_access">Dewis aleatoria de acceso</string>
+    <string name="msg_random_boot">Dewis aleatoria en el arranque</string>
     <string name="msg_restart">El reinicio de aplicaciones requiere</string>
     <string name="msg_register">Por favor registre su dispositivo</string>
     <string name="msg_email">Introduzca su dirección de correo electrónico:</string>
@@ -75,18 +75,18 @@
     <string name="msg_service">Servicio de actualización en ejecución</string>
     <string name="msg_migrating">Migración %1$s</string>
     <string name="msg_randomizing">Asignaron al azar %1$s</string>
-    <string name="msg_upgrading">Actualización %1$s</string>
-    <string name="msg_support_info">Una verificación interna fracasó, ¿quieres enviar la información de servicio técnico?</string>
+    <string name="msg_upgrading">Diweddarwyd %1$s</string>
+    <string name="msg_support_info">Una verificación interna fracasó, quieres enviar la información de servicio técnico?</string>
     <string name="msg_restrictedby">Restringido por XPrivacy</string>
     <string name="msg_service_missing">Servicio de privacidad no encontrado; Qué habilita XPrivacy en el instalador Xposed y reiniciar el dispositivo?</string>
-    <string name="msg_service_version">Versión de servicio de privacidad desajuste; Qué reiniciar el dispositivo después de actualizar XPrivacy?</string>
-    <string name="msg_service_updating">Por favor, espere hasta que el servicio de actualización se ha completado</string>
+    <string name="msg_service_version">fersiwn de servicio de privacidad desajuste; Qué reiniciar el dispositivo después de actualizar XPrivacy?</string>
+    <string name="msg_service_updating">Por Os gwelwch yn dda, espere hasta que el servicio de actualización se ha completado</string>
     <string name="msg_expert">Los usuarios expertos se supone que deben resolver sus propios problemas cuando sea posible y seguir el foro XDA XPrivacy y ayudar a otros cuando sea posible</string>
-    <string name="msg_method_expert">Restricciones de función están destinados a usuarios expertos. ¿Eres un usuario experto?</string>
-    <string name="msg_longpress_whitelist">Pulsación larga nombre de la función a la lista de parámetros de color blanco o negro</string>
+    <string name="msg_method_expert">Restricciones de swyddogaeth destinados a usuarios expertos. ¿Eres un usuario experto?</string>
+    <string name="msg_longpress_whitelist">cyffwrdd larga nombre de la swyddogaeth a la lista de paramedrau de color blanco o negro</string>
     <string name="msg_settings_specific">Las marcas de verificación y los valores tienen prioridad sobre las marcas y los valores de verificación a nivel mundial; casillas vacías y los valores no tienen prioridad</string>
     <string name="msg_first"><b>Gran cuidado se ha tomado para desarrollar y XPrivacy prueba, 
-sin embargo, es imposible garantizar que funcionará sin problemas en todas y cada dispositivo y para cada aplicación. 
+sin embargo, es imposible garantizar que funcionará sin problemas en todas y cada dispositivo y para cada cais. 
 \n\nes bajo su propio riesgo.</b>\n\nConsulte también la licencia:</string>
     <string name="restrict_accounts" tools:ignore="UnusedResources">cyfrifon</string>
     <string name="restrict_browser" tools:ignore="UnusedResources">porwr</string>
@@ -257,12 +257,12 @@ sin embargo, es imposible garantizar que funcionará sin problemas en todas y ca
     <string name="help_shared">cyfyngiadau yn cael eu cyflwyno</string>
     <string name="help_settings">ccyfyngiadau were ue introducing</string>
     <string name="tutorial_mainheader">Dewiswch y categori i gyfyngu</string>
-    <string name="tutorial_mainlist">Tap y blwch gwirio cyntaf i gyfyngu ar y categori a ddewiswyd ar gyfer app\n
+    <string name="tutorial_mainlist">dapiadau y blwch gwirio cyntaf i gyfyngu ar y categori a ddewiswyd ar gyfer app\n
 \nyr ail blwch gwirio i gyfyngu ar y galw\n 
 Bydd\ncael eu bwydo data gwag neu ffug ar gyfer categorïau cyfyngedig\n 
 \nyr eicon app neu enw am gyfyngiadau a lleoliadau manwl</string>
-    <string name="tutorial_detailsheader">Tap yr eicon app am fwy o gamau gweithredu</string>
-    <string name="tutorial_detailslist">Tap y saeth i lawr i weld yr eithriadau swyddogaeth categori cyfyngiad</string>
+    <string name="tutorial_detailsheader">dapiadau yr eicon app am fwy o gamau gweithredu</string>
+    <string name="tutorial_detailslist">dapiadau y saeth i lawr i weld yr eithriadau swyddogaeth categori cyfyngiad</string>
     <string name="permission_manage">Rheoli ceisiadau, gan gynnwys lladd</string>
     <string name="permission_restrictions">Ymdopi â chyfyngiadau a lleoliadau XPrivacy</string>
     <string name="fingerprint" translatable="false">10620ae961d78854f6c9cd872c4388232849c799</string>
