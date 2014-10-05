@@ -262,9 +262,9 @@ sin embargo, es imposible garantizar que funcionará sin problemas en todas y ca
 Bydd\ncael eu bwydo data gwag neu ffug ar gyfer categorïau cyfyngedig\n 
 \nyr eicon app neu enw am gyfyngiadau a lleoliadau manwl</string>
     <string name="tutorial_detailsheader">Tap yr eicon app am fwy o gamau gweithredu</string>
-    <string name="tutorial_detailslist">Tap the down arrow to see the function exceptions of a restriction category</string>
-    <string name="permission_manage">Manage applications, including killing</string>
-    <string name="permission_restrictions">Manage XPrivacy restrictions and settings</string>
+    <string name="tutorial_detailslist">Tap y saeth i lawr i weld yr eithriadau swyddogaeth categori cyfyngiad</string>
+    <string name="permission_manage">Rheoli ceisiadau, gan gynnwys lladd</string>
+    <string name="permission_restrictions">Ymdopi â chyfyngiadau a lleoliadau XPrivacy</string>
     <string name="fingerprint" translatable="false">10620ae961d78854f6c9cd872c4388232849c799</string>
 
 </resources>
